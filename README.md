@@ -1,4 +1,8 @@
-Java-Sql-Desktop-Application
+# Java Sql Desktop Application - Water Sales
+
+Uygulama Açıklaması
+
+## Screenshots
 
 ![2](https://user-images.githubusercontent.com/51031447/136363985-59ffa665-720f-438f-ad6d-cdf5514dde03.PNG)
 ![10](https://user-images.githubusercontent.com/51031447/136364094-035c086d-6ff1-4251-9a43-bc778e346353.PNG)
