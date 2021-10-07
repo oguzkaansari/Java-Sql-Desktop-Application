@@ -13,7 +13,7 @@ This application is designed for a water-selling company's customer management.
 | Language | % |
 | ------------- |:-------------:|
 | Java | 80 |
-| SQL | 20 |
+| SQL(MySql) | 20 |
 
 ## Screenshots
 
