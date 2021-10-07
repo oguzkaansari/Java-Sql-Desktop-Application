@@ -13,7 +13,7 @@ This application is designed for a water-selling company's customer management.
 | Language | % |
 | ------------- |:-------------:|
 | Java | 80 |
-| SQL(SQLite) | 20 |
+| SQL (SQLite) | 20 |
 
 ## Screenshots
 
