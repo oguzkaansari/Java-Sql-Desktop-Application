@@ -2,6 +2,12 @@
 
 This application is designed for a water-selling company's customer management.
 
+## Login Info
+
+| Username | Password |
+| ------------- |:-------------:|
+| admin@mail.com | 12345 |
+
 ## Languages Used
 
 | Language | % |
