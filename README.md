@@ -1,6 +1,6 @@
 # Java Sql Desktop Application - Water Sales
 
-This application is designed for a Water-selling company's customer management.
+This application is designed for a water-selling company's customer management.
 
 ## Languages Used
 
